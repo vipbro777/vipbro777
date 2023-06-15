@@ -1,0 +1,60 @@
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\TimerTest.exe.config
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\TimerTest.exe
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\TimerTest.pdb
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\LoginPage.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\App.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest_MarkupCompile.cache
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest_MarkupCompile.lref
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\LoginPage.baml
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.g.resources
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.Properties.Resources.resources
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.exe
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.pdb
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\TimerTest\TimerTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest_Content.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.CopyComplete
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\MainMarketWindow.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\MainMarketWindow.baml
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\AddItem.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\AddItem.baml
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\EditItem.g.cs
+C:\Users\user\source\repos\TimerTest\TimerTest\obj\Debug\Views\EditItem.baml
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\TimerTest.exe.config
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\TimerTest.exe
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\TimerTest.pdb
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\EntityFramework.dll
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\EntityFramework.xml
+D:\Рабочий стол\TimerTest\TimerTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.AssemblyReference.cache
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\AddItem.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\EditItem.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\LoginPage.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\MainMarketWindow.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\App.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest_Content.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest_MarkupCompile.cache
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest_MarkupCompile.lref
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\MainWindow.baml
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\AddItem.baml
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\EditItem.baml
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\LoginPage.baml
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\MainMarketWindow.baml
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.g.resources
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.Properties.Resources.resources
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.GenerateResource.cache
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.csproj.CopyComplete
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.exe
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\TimerTest.pdb
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\MainMarketWindowAnonimous.g.cs
+D:\Рабочий стол\TimerTest\TimerTest\obj\Debug\Views\MainMarketWindowAnonimous.baml
